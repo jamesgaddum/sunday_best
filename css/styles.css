@@ -1,12 +1,12 @@
 @font-face {
-    font-family: 'Visuelt-Regular';
-    src: url('../fonts/Visuelt-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/Visuelt-Regular.woff') format('woff'), url('../fonts/Visuelt-Regular.ttf') format('truetype'), url('../fonts/Visuelt-Regular.svg#Visuelt-Regular') format('svg');
+    font-family: 'visuelt-regular';
+    src: url('../fonts/visuelt-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/visuelt-regular.woff') format('woff'), url('../fonts/visuelt-regular.ttf') format('truetype'), url('../fonts/visuelt-regular.svg#visuelt-regular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 body {
-    font-family: 'Visuelt-Regular';
+    font-family: 'visuelt-regular';
     color: #f13923;
     background-color: #ffffff;
     font-size: 15px;
