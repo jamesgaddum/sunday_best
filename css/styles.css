@@ -21,7 +21,7 @@ body {
 }
 
 .sb_container {
-    padding: 55px;
+    padding: 30px;
 }
 
 .sb_contact_container {
@@ -39,8 +39,8 @@ body {
     display: inline-flex;
 }
 
-.sb_text {
-    margin: 10px 0px 10px 0px;
+.sb_below_text {
+    margin-top: 10px;
 }
 
 .sb_text_container .sb_text {
@@ -94,7 +94,7 @@ body {
 
 .sb_description_layout {
     display: inline-flex;
-    justify-content: center;
+    /* justify-content: center; */
 }
 
 .sb_button {
@@ -117,6 +117,7 @@ body {
 .sb_arrow {
     width: 35px;
     height: 15px;
+    margin-top: -7px;
 }
 
 .sb_arrow_right {
