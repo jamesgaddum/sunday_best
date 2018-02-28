@@ -154,9 +154,6 @@ body {
 
     .sb_text_container {
         display: block;
-        min-height: 60vh;
-        max-height: 60vh;
-        overflow: scroll;
     }
 
     .sb_text {
