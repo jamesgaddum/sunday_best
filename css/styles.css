@@ -176,12 +176,8 @@ body {
         display: block;
     }
 
-    .sb_text {
-        font-size: 17px;
-    }
-
     .sb_big_text {
-        font-size: 20px;
+        font-size: 25px;
         margin: 20px 0px 20px 0px;
     }
 
