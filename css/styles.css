@@ -8,7 +8,7 @@
 body {
     font-family: 'Visuelt-Regular';
     color: #f13923;
-    background-color: #ffffff;
+    background-color: #ffffff!important;
     font-size: 15px;
 }
 
@@ -17,11 +17,14 @@ body {
     flex-direction: column;
     justify-content: space-between;
     min-height: 100vh;
-    max-height: 100vh;
 }
 
 .sb_container {
     padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
 }
 
 .sb_contact_container {
@@ -37,6 +40,12 @@ body {
 
 .sb_text_container {
     display: inline-flex;
+}
+
+.sb_mobile_footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
 }
 
 .sb_below_text {
@@ -212,4 +221,8 @@ body {
         padding-left: 50px;
     }
 
+}
+
+.ui-loader {
+    display: none;
 }
