@@ -194,7 +194,7 @@ body {
     }
 
     .sb_placeholder {
-        height: 35px;
+        height: 30px;
     }
 
     .sb_white {
@@ -207,6 +207,10 @@ body {
 
     .sb_image_container {
         display: none;
+    }
+
+    .sb_text_container .sb_text {
+        margin-right: 0px;
     }
 
 }
